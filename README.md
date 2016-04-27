@@ -2,7 +2,7 @@
 
 This is an exercise that shows the following
 
-1. Bubble Sort
+1. Bubble Sort\n
 
 2. Selection Sort
 
