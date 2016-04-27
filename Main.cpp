@@ -5,9 +5,6 @@ April 26, 2016
 
 Lab #9 Comparing Sorting Algorithm
 
-This code has been submitted to Professor Gabriela Ernsberger.
-Use as a guide and remember to implement your own code.
-Yes I will refactor later.
 */
 
 /********************************************************************
